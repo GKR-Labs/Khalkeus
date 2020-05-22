@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/GKR-Labs/KhalkeusMarlin.git
+[submodule "upstream"]
+	path = upstream
+	url = https://github.com/bq/prusa-i3-hephestos.git
